@@ -1,14 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=VenusIm&fontAlign=80&fontAlignY=40&color=gradient")
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=VenusIm&color=gradient")
 <br/> 
-
-- 🔭 I’m currently working on [TravelWithMeProject](https://github.com/TravelWithMeProject)  
-  
-
-- 🌱 I’m currently learning SpringBoot And JPA  
-  
-
-<br/>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
 
