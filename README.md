@@ -22,6 +22,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
 
+## Most Usage Language
+
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusIm&langs_count=10&layout=compact&theme=dark)](https://github.com/VenusIm/VenusIm)
 
 ## Conding Test
 
