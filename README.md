@@ -1,6 +1,6 @@
-### Hi there 👋
+
 ### <div align="center">I'm JunHui, 👨‍💻 working remotely since 2021 🚀</div>  
-  
+<br/> 
 
 - 🔭 I’m currently working on [TravelWithMeProject](https://github.com/TravelWithMeProject)  
   
