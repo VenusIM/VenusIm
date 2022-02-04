@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waiving)
+![header](https://capsule-render.vercel.app/api?type=waving)
 <br/> 
 
 - 🔭 I’m currently working on [TravelWithMeProject](https://github.com/TravelWithMeProject)  
