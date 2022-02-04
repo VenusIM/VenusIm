@@ -3,9 +3,10 @@
 <br/> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
-[![Solved.ac
-VenusIm](http://mazassumnida.wtf/api/generate_badge?boj=profile/junhee3370)](https://solved.ac/profile/junhee3370)
+
 <br/> 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhee3370)](https://solved.ac/junhee3370/)
 
 <!--
 **VenusIm/VenusIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
