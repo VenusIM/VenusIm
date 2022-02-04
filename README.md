@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=VenusIm)
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=VenusIm&color=gradient")
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=VenusIm&color=gradient)
 <br/> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
