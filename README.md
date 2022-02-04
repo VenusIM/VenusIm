@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
 [![Solved.ac
-VenusIm](http://mazassumnida.wtf/api/generate_badge?boj={profile/junhee3370})](https://solved.ac/{profile/junhee3370})
+VenusIm](http://mazassumnida.wtf/api/generate_badge?boj=profile/junhee3370)](https://solved.ac/profile/junhee3370)
 <br/> 
 
 <!--
