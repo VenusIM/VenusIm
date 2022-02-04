@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=VenusIm&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient")
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=VenusIm&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient")
 <br/> 
 
 - 🔭 I’m currently working on [TravelWithMeProject](https://github.com/TravelWithMeProject)  
