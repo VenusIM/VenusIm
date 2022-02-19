@@ -2,7 +2,7 @@
 <br/> 
 <br/>
 
-:smile: 개발자의 길을 걷고 있는 VenusIM입니다.
+:smile: 개발자의 길을 걷고 있는 임준희입니다.
 
 2021/08/09 ~ 2022/01/25 동안 국비지원을 통해 [교육과정](https://github.com/VenusIm/Bitcamp_Study) / [미니 프로젝트](https://github.com/VenusIm/Bitcamp_Mini) / [메인 프로젝트](https://github.com/VenusIm/Bitcamp_main)를 진행하였습니다.
 
