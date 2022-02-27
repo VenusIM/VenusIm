@@ -14,7 +14,7 @@
 
 ## 스터디
 2022/02/25 ~ ing
-1. [JPA기초](https://github.com/VenusIM/JPA_Basic)
+[1. JPA기초](https://github.com/VenusIM/JPA_Basic)
 
 ## Github Status
 
