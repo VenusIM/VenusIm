@@ -16,6 +16,8 @@
 2022/02/25 ~ ing
 [1. JPA기초](https://github.com/VenusIM/JPA_Basic)
 
+<br/>
+
 ## Github Status
 
  <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
