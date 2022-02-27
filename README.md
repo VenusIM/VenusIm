@@ -6,11 +6,15 @@
 
 2021/08/09 ~ 2022/01/25 동안 국비지원을 통해 [교육과정](https://github.com/VenusIm/Bitcamp_Study) / [미니 프로젝트](https://github.com/VenusIm/Bitcamp_Mini) / [메인 프로젝트](https://github.com/VenusIm/Bitcamp_main)를 진행하였습니다.
 
-현재 [여행 프로잭트](https://github.com/TravelWithMeProject)와 [개인 스터디](https://github.com/VenusIm/Springboot-Study)를 통해 SpringBoot와 JPA등에 대해 학습하고 있습니다.
+현재 [여행 프로잭트](https://github.com/TravelWithMeProject)와 스터디를 통해 SpringBoot와 JPA등에 대해 학습하고 있습니다.
 
 꾸준히 [알고리즘 공부](https://github.com/VenusIm/Algorithms)를 진행하고 있습니다.
 
 <br/>
+
+## 스터디
+2022/02/25 ~ ing
+1. [JPA기초](https://github.com/VenusIM/JPA_Basic)
 
 ## Github Status
 
