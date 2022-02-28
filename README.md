@@ -2,20 +2,22 @@
 <br/> 
 <br/>
 
-:smile: 개발자의 길을 걷고 있는 임준희입니다.
+:smile: 개발자의 길을 걷고 있는 **임준희**입니다.
 
-2021/08/09 ~ 2022/01/25 동안 국비지원을 통해 [교육과정](https://github.com/VenusIm/Bitcamp_Study) / [미니 프로젝트](https://github.com/VenusIm/Bitcamp_Mini) / [메인 프로젝트](https://github.com/VenusIm/Bitcamp_main)를 진행하였습니다.
+**2021/08/09 ~ 2022/01/25**
+> 국비지원을 통해 [교육과정](https://github.com/VenusIm/Bitcamp_Study) / [미니 프로젝트](https://github.com/VenusIm/Bitcamp_Mini) / [메인 프로젝트](https://github.com/VenusIm/Bitcamp_main)를 진행하였습니다.
 
-현재 [여행 프로잭트](https://github.com/TravelWithMeProject)와 스터디를 통해 꾸준히 학습하고 있습니다.
+**2022/01/25 ~ Today**
+
+> [여행 프로잭트](https://github.com/TravelWithMeProject)와 스터디를 통해 꾸준히 학습하고 있습니다.
 
 <br/>
 
 ## 스터디
-2022/01/25 ~ ing
 
-[1. JPA기초](https://github.com/VenusIM/JPA_Basic)
+[1. **JPA**](https://github.com/VenusIM/JPA_Basic)
 
-[2. 알고리즘 공부](https://github.com/VenusIm/Algorithms)
+[2. **알고리즘 공부**](https://github.com/VenusIm/Algorithms)
 
 
 
