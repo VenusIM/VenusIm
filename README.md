@@ -17,7 +17,7 @@
 
 [1. **JPA**](https://github.com/VenusIM/JPA_Basic)
 
-[2. **알고리즘 공부**](https://github.com/VenusIm/Algorithms)
+[2. **알고리즘**](https://github.com/VenusIm/Algorithms)
 
 
 
