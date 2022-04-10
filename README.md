@@ -13,19 +13,19 @@
 
 <br/>
 
-## 스터디
+## Studying
 
 [1. **JPA**](https://github.com/VenusIM/JPA_Basic)
 
 [2. **알고리즘**](https://github.com/VenusIm/Algorithms)
-
-
 
 <br/>
 
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<br/>
 
 ## Github & Algorithm stats
 
