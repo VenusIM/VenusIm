@@ -7,13 +7,13 @@
 **2021/08/09 ~ 2022/01/25**
 > 국비지원을 통해 [교육과정](https://github.com/VenusIm/Bitcamp_Study) / [미니 프로젝트](https://github.com/VenusIm/Bitcamp_Mini) / [메인 프로젝트](https://github.com/VenusIm/Bitcamp_main)를 진행하였습니다.
 
-**2022/01/25 ~ Today**
+**2022/01/25 ~ 2022/03/31**
 
-> [여행 프로잭트](https://github.com/TravelWithMeProject)와 스터디를 통해 꾸준히 학습하고 있습니다.
+> [여행 프로잭트](https://github.com/TravelWithMeProject)
 
 <br/>
 
-## Studying
+## Currently studying
 
 [1. **알고리즘**](https://github.com/VenusIm/Algorithms)
 
