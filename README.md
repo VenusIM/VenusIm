@@ -15,9 +15,11 @@
 
 ## Studying
 
-[1. **JPA**](https://github.com/VenusIM/JPA_Basic)
+[1. **알고리즘**](https://github.com/VenusIm/Algorithms)
 
-[2. **알고리즘**](https://github.com/VenusIm/Algorithms)
+[2. **JPA**](https://github.com/VenusIM/JPA_Basic)
+
+[3. **정보처리기사**]()
 
 <br/>
 
