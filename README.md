@@ -23,24 +23,13 @@
 
 <br/>
 
-## Github Status
-
- <img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
-
-<br/>
-
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br/>
 
-## Most Usage Language
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusIm&langs_count=10&layout=compact&theme=light&hide=html,css)](https://github.com/VenusIm/VenusIm)
-
-<br/>
-
-## Conding Test
+## Github & Algorithm stats
+<img src="https://github-readme-stats.vercel.app/api?username=VenusIm&show_icons=true&count_private=true&hide_border=true"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhee3370)](https://solved.ac/junhee3370/)
