@@ -19,7 +19,7 @@
 
 [2. **JPA**](https://github.com/VenusIM/JPA_Basic)
 
-[3. **정보처리기사**]()
+[3. **정보처리기사**] - 필기 합격, 실기 준비중
 
 <br/>
 
