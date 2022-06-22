@@ -16,11 +16,7 @@
 
 [1. **알고리즘**](https://github.com/VenusIm/Algorithms)
 
-[2. **JPA**](https://github.com/VenusIM/JPA_Basic)
-
-[3. **정보처리기사**]() - 실기 준비중
-
-[4. **개인 프로젝트**](https://github.com/VenusIM/AB_Match)
+[2. **정보처리기사**]() - 실기 준비중
 
 <br/>
 
