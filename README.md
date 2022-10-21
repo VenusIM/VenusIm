@@ -16,7 +16,7 @@
 
 [1. **알고리즘**](https://github.com/VenusIm/Algorithms)
 
-[2. **정보처리기사**]() - 실기 준비중
+[2. **S.T.P**](https://github.com/VenusIM/BE_STPs)
 
 <br/>
 
