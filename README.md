@@ -16,7 +16,7 @@
 
 [1. **알고리즘**](https://github.com/VenusIm/Algorithms)
 
-[2. **S.T.P**](https://github.com/VenusIM/BE_STPs)
+[2. **Effetive Java**](https://github.com/VenusIM/Study_Record)
 
 <br/>
 
