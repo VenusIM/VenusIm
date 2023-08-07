@@ -21,5 +21,13 @@
 <div align="center">
  
  <a>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhee3370)](https://solved.ac/junhee3370/)<a/>
- 
+
 </div>
+
+<div align="center">
+  
+  <a>![junhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenusIM)<a/>
+  
+</div>
+
+
