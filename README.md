@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFD159&height=150&section=header&text=JunHeeLim&fontSize=70&animation=twinkling)
 
-<h3 align="center">  Skills  <h3>
-
-<h5 align="center"> 👉 Skills that i have used at least once. </h5>
+<h3 align="center"> 👉 Skills that i have used at least once. 👈 </h3>
 
 <br/>
 
