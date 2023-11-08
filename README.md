@@ -5,13 +5,18 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-squar&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-squar&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-squar&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-squar&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-squar&logo=Redis&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-squar&logo=apache kafka&logoColor=white"> 
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-squar&logo=jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/apache-D22128?style=flat-squar&logo=apache&logoColor=white"> 
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-squar&logo=nginx&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-squar&logo=kubernetes&logoColor=white"> 
 </p>
 
 <br/>
