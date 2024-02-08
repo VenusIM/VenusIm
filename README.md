@@ -11,12 +11,14 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-squar&logo=Redis&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Apachekafka-231F20?style=flat-squar&logo=apache kafka&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-squar&logo=jenkins&logoColor=white"> 
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-squar&logo=apache&logoColor=white"> 
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-squar&logo=nginx&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-squar&logo=jenkins&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-squar&logo=Argo&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-squar&logo=kubernetes&logoColor=white"> 
+  
 </p>
 
 <br/>
